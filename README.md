@@ -1,2 +1,2 @@
 # whowantstolearn
-A simple demon repository to training!
+A simple demo repository to training!
